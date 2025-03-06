@@ -1,6 +1,6 @@
 # Olympics-Data-Analysis
 
-## There are 2 datasets in above csv files
+## There are 2 datasets in above Excel files
 
 1. **athletes**: Contains information about all the athletes who participated in the Olympics.
 2. **athlete_events**: Contains information about all the events that happened over the years. The athlete_id in this table refers to the id column in the athletes table.
