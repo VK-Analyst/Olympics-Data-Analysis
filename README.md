@@ -7,9 +7,9 @@
 
 ## Questions
 
- Problem 1: Which team has won the maximum gold medals over the years?
+-  Problem 1: Which team has won the maximum gold medals over the years?
 
-- Find the team that has won the maximum number of gold medals across all Olympic years.
+Find the team that has won the maximum number of gold medals across all Olympic years.
 
  Problem 2: For each team, print total silver medals and the year in which they won the maximum silver medal. Output 3 columns: `team`, `total_silver_medals`, `year_of_max_silver`.
 
