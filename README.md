@@ -1,11 +1,14 @@
 # Olympics-Data-Analysis
 
+## 👋 Introduction
+I have been assigned a project on Sports and Entertainment , where I am responsible for writing SQL queries to address the following request based on the dataset that is given in xlsx format:
+
 ## There are 2 datasets in above Excel files
 
 1. **athletes**: Contains information about all the athletes who participated in the Olympics.
 2. **athlete_events**: Contains information about all the events that happened over the years. The athlete_id in this table refers to the id column in the athletes table.
 
-## Questions
+## 📋 Requests:
 
 - 1 which team has won the maximum gold medals over the years.
 
