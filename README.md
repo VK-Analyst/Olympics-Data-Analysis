@@ -1,7 +1,7 @@
 # Olympics-Data-Analysis
 
 ## 👋 Introduction
-I have been assigned a project on Sports and Entertainment , where I am responsible for writing SQL queries to address the following request based on the dataset that is given in xlsx format:
+I have been assigned a project on Sports and Entertainment sector , where I am responsible for writing SQL queries for the following requests based on the dataset that is given in xlsx format:
 
 ## There are 2 datasets in above Excel files
 
